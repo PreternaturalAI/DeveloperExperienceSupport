@@ -5,8 +5,8 @@ import PackageDescription
 let package = Package(
     name: "DeveloperExperienceSupport",
     platforms: [
-        .iOS(.v17),
-        .macOS(.v14),
+        .iOS(.v16),
+        .macOS(.v13),
         .tvOS(.v17),
         .watchOS(.v10)
     ],

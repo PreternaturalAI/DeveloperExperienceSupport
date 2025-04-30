@@ -2,9 +2,8 @@
 // Copyright (c) Vatsal Manot
 //
 
-@_exported import ArgumentParser
+@_exported import SwallowMacrosClient
 
-@available(*, deprecated)
-public typealias ParsableCommandX = AsyncExecutableCommand
-@available(*, deprecated)
-public typealias AsyncParsableCommandX = AsyncExecutableCommand
+#module {
+    
+}
